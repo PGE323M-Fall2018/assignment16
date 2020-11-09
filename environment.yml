@@ -1,0 +1,7 @@
+name: assignment16
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy=1.18.1
+  - python=3.8.1
