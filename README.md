@@ -1,10 +1,8 @@
 # Homework Assignment 16
 
-[![Build Status](https://travis-ci.com/PGE323M/assignment16.svg?token=SnMGq692xXXqxzyE6QSj&branch=master)](https://travis-ci.com/PGE323M/assignment16)
-
 ## Instructions
 
-The [Simple 2D Problem in CMG](https://youtu.be/4UGY74SJZ-o) was also the exact problem we wrote our own Python code for in [Assignment 15](https://github.com/PGE323M-Fall2017/assignment15/blob/master/assignment15.ipynb).   Recall the problem schematic
+The [Simple 2D Problem in CMG](https://youtu.be/4UGY74SJZ-o) was also the exact problem we wrote our own Python code for in [Assignment 15](https://github.com/PGE323M-Students/assignment15/blob/master/assignment15.ipynb).   Recall the problem schematic
 
 ![image](images/grid.png)
 
